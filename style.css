@@ -1,0 +1,78 @@
+.container{
+    width:1170px;
+    margin:0 auto;
+    padding:0 15px;
+}
+
+.top-wrapper{
+    background-image:url(https://lh3.googleusercontent.com/pw/ADCreHfQkSQFJ_WgaIGbbAfMlxGVkzp2kyAdcGnXl0gNv4CBrpzAeHMfKJPQsqgACPhouJ5n29f3N4D6eXjnIbAQwdfxVYHsBxMzVQD4EFdF-1C20P-WEKmxiSF1hbk9pFKIcXBXGL9AoLh0qGXmASzAUzKg=w1616-h909-s-no?authuser=0);
+    padding:150px 0 150px 0;
+    background-image:cover;
+    color:white;
+    text-align:center;
+}
+
+.top-wrapper h1{
+    font-size:60px;
+    opacity:0.7;
+    letter-spacing:5px;
+}
+
+.top-wrapper p{
+    opacity:0.9;
+    font-size:15px;
+}
+
+.btn{
+    padding:10px 20px;
+    margin:0 15px;
+    display:inline-block;
+    color:white;
+    opacity:0.7;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    opacity:1;
+}
+
+.syoukai{
+    background-color:brown;
+}
+
+.syokunou{
+    background-color:green;
+}
+
+.kankyou{
+    background-color:darkorange;
+}
+
+.seikatsu{
+    background-color:hotpink;
+}
+
+header{
+  height: 60px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+}
+
+.headding{
+    display:flex;
+    justify-content: space-between;
+}
+
+.header-left p{
+    width:300px;
+    margin:20px 0;
+    color:white;
+    font-size:20px;
+}
+
+.header-right a{
+    line-height:60px;
+    padding:0 25px;
+    color:white;
+    display:block;
+}
