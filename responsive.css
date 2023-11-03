@@ -1,0 +1,10 @@
+@media(max-width:670px){
+    btn{
+        width:100%;
+
+    }
+
+    .kankyou{
+        margin:10px 0;
+    }
+}
