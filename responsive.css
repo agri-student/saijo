@@ -1,5 +1,5 @@
 @media(max-width:670px){
-    btn{
+    .btn{
         width:100%;
 
     }
@@ -8,7 +8,7 @@
         margin:10px 0;
     }
 
-    .top-wrapper p{
+    .top-wrapper h1{
         font-size:40px;
     }
 
@@ -19,11 +19,6 @@
     .header-right{
         display:none;
     }
-
-    .menu-icon{
-        display:block;
-    }
-}
 
     .menu-icon{
         display:block;
