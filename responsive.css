@@ -7,4 +7,20 @@
     .kankyou{
         margin:10px 0;
     }
+
+    .headding p{
+        font-size:15px;
+    }
+
+    .top-wrapper p{
+        font-size:10px;
+    }
+
+    .header-right{
+        display:none;
+    }
+
+    .menu-icon{
+        display:block;
+    }
 }
