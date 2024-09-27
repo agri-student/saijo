@@ -12,7 +12,7 @@
 .top-wrapper{
     background-image:url(https://lh3.googleusercontent.com/pw/ADCreHfQkSQFJ_WgaIGbbAfMlxGVkzp2kyAdcGnXl0gNv4CBrpzAeHMfKJPQsqgACPhouJ5n29f3N4D6eXjnIbAQwdfxVYHsBxMzVQD4EFdF-1C20P-WEKmxiSF1hbk9pFKIcXBXGL9AoLh0qGXmASzAUzKg=w1616-h909-s-no?authuser=0);
     padding:150px 0 150px 0;
-    background-image:cover;
+    background-size:cover;
     color:white;
     text-align:center;
 }
